@@ -1,0 +1,16 @@
+weight,height,age,fitness_goal,workout_time,diet_plan
+70,175,25,weight_loss,45,low-carb
+85,180,32,muscle_gain,60,high-protein
+60,165,22,endurance,30,balanced
+95,185,35,weight_loss,40,low-carb
+72,178,28,muscle_gain,55,high-protein
+68,170,24,endurance,35,balanced
+110,190,40,weight_loss,50,low-carb
+75,175,30,muscle_gain,65,high-protein
+62,160,20,endurance,25,balanced
+80,180,33,weight_loss,55,low-carb
+90,185,29,muscle_gain,70,high-protein
+65,170,27,endurance,40,balanced
+100,190,36,weight_loss,60,low-carb
+77,175,31,muscle_gain,62,high-protein
+58,160,21,endurance,20,balanced
